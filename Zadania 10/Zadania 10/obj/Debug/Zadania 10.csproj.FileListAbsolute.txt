@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\10 задание\Zadania 10\Zadania 10\bin\Debug\Zadania 10.exe.config
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\10 задание\Zadania 10\Zadania 10\bin\Debug\Zadania 10.exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\10 задание\Zadania 10\Zadania 10\bin\Debug\Zadania 10.pdb
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\10 задание\Zadania 10\Zadania 10\obj\Debug\Zadania 10.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\10 задание\Zadania 10\Zadania 10\obj\Debug\Zadania 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\10 задание\Zadania 10\Zadania 10\obj\Debug\Zadania 10.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\10 задание\Zadania 10\Zadania 10\obj\Debug\Zadania 10.exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\10 задание\Zadania 10\Zadania 10\obj\Debug\Zadania 10.pdb
